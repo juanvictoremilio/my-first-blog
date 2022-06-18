@@ -1,4 +1,3 @@
-
 from ast import Continue, If, Return
 from binascii import a2b_base64
 from django.db import models
